@@ -7,7 +7,7 @@ with open("tfidf.pkl", "rb") as f:
 
 # Load trained Naive Bayes model
 # Change the filename below if your model file has a different name
-with open("naive_bayes_model.pkl", "rb") as f:
+with open("model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # App title

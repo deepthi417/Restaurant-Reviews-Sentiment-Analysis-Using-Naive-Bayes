@@ -49,7 +49,7 @@ Restaurant-Reviews-Sentiment-Analysis-Using-Naive-Bayes/
 Clone the repository:
 
 ```bash
-git clone https://github.com/deepthi417/Restaurant-Reviews-Sentiment-Analysis-Using-Naive-Bayes.git
+git clone https://github.com/deepthi417/Restaurant-Reviews-Sentiment-Analysis-Using-Naive-Bayes
 ```
 
 Navigate to the project directory:
